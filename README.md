@@ -70,3 +70,6 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 ## License
 This project is licensed under the MIT License.
+## User Interface
+![image alt](https://github.com/SathishB-1/Customer-Segmentation-for-E-commerce/blob/c80a6388cf300896e9b66cef565e6dca6df9a2f9/img1.png)
+
